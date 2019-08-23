@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.bokeh.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\projects\\Evan\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "bokeh [Testing]"
+        }
+      }
+    }
+  ]
+}
